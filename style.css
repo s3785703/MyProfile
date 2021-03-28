@@ -19,7 +19,7 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #74ca96;
+	color: #000000;
 }
 
 #cv {
@@ -31,8 +31,8 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
-	background: #3A506B;
+	border-bottom: 2px solid #fbe338;
+	background: #ccc8c8;
 }
 
 #name h1 {
@@ -163,7 +163,7 @@ section:last-child {
 	column-count:3;
 	margin-bottom: 20px;
 	font-size: 1em;
-	color: #50AAA9;
+	color: #000000;
 }
 
 .keySkills ul li {
